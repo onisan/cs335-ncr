@@ -1,0 +1,12 @@
+git config --global user.name "Nik Ramsey"
+git config --global user.email "ncr.soul@gmail.com"
+
+clone from github
+-or-
+create a repo from scratch
+
+git init cs335-ncr
+git add file1 file2
+git commit -m "some message here"
+
+
